@@ -1,0 +1,14 @@
+.html{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+.container img{
+    border-radius: 100%;
+}
